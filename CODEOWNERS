@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @abhishekvillain11-glitch
+/src/backend/database.py      @abhishekvillain11-glitch
+/src/backend/routers/auth.py  @abhishekvillain11-glitch
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @abhishekvillain11-glitch
